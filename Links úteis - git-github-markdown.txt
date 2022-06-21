@@ -1,0 +1,8 @@
+Links para consulta:
+
+1.  [Comandos do GIT] (https://comandosgit.github.io/)
+
+2. [Sintaxe básica de escrita e formatação do GitHub] (https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+3. [Repositórios] (https://woliveiras.com.br/posts/trabalhando-com-reposit%C3%B3rios-remotos-git-e-github/#:~:text=Fazemos%20isso%20com%20o%20comando,que%20est%C3%A3o%20somente%20no%20servidor.)
+4. [Minhas anotações no Google Drive] (https://drive.google.com/drive/folders/1Mn1ZJed_6WyoCm0M25lvfriuqkGs8j0B)
+5. [Guia básico Markdown] (https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open)
